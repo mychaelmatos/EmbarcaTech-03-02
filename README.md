@@ -6,6 +6,10 @@ Este projeto é parte da residência do CEPEDI de Sistemas Embarcados. Ele demon
 
 O projeto implementa um sistema interativo que permite entrada de caracteres via Serial Monitor, controle de LEDs RGB através de botões, exibição de caracteres em um display OLED SSD1306 e representação de números em uma matriz LED WS2812 5x5.
 
+## Video demostração do projeto e funcionamento no Youtube
+
+Link: https://www.youtube.com/watch?v=LYxfqx7Rgro
+
 ## Funcionalidades Principais
 
 1. **Entrada de Caracteres via PC**
